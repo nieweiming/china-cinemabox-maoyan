@@ -35,15 +35,15 @@ python3 main.py
 
 1、全国影院2017年票房汇总--观影人次TOP10
 
-![pic1](./pic1.png)
+<center>![pic1](./pic1.png)</center>
 
 2、全国影院2017年票房汇总--影院评价票价TOP10
 
-![pic2](./pic2.png)
+<center>![pic2](./pic2.png)</center>
 
 3、全国影院2017年汇总--影院场均观影人次TOP10
 
-![pic3](./pic3.png)
+<center>![pic3](./pic3.png)</center>
 
 
 
